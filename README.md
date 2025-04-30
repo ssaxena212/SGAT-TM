@@ -32,3 +32,26 @@ The file structure of the repository is as follows:
 ├── README.md                # Project overview and instructions
 └── requirements.txt         # Python dependencies
 ```
+
+## Installation
+1. Prerequisites
+Make sure you have following libraries installed.
+* matplotlib==3.10.1
+* numpy==2.2.5
+* pandas==2.2.3
+* scikit_learn==1.6.1
+* torch==2.4.1
+* torch_geometric==2.6.1
+* torch_sparse==0.6.18+pt24cu121
+
+You can install the dependencies by running:
+```bash
+pip3 install -r requirements.txt
+```
+2. Run
+
+To train the model, run the main.py script. You can customize training parameters such as the number of epochs, learning rate, and other hyperparameters by passing arguments to the script.
+
+```bash
+python3 code/main.py --epoch XXXX --lr XXXX
+```
