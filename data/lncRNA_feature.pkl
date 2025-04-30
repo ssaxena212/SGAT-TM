@@ -1,0 +1,8 @@
+Structure of the Data
+The dataset is a list of 'n' numpy arrays, where each array represents the features of a lncRNA. Each array has 'm' features, which are extracted using k-mer, CTD, Doc2Vec, and Role2Vec. The structure is as follows:
+
+Type: List of numpy arrays
+
+Length of the list: n (corresponding to n lncRNAs)
+
+Shape of each array: (m,) — Each array has m features
