@@ -56,7 +56,7 @@ To train the model, run the main.py script. You can customize training parameter
 python3 code/main.py --epoch XXXX --lr XXXX
 ```
 ## Copyright
-All right researved @ Institute of Advanced Research, Gandhinagar, India
+All rights reserved @ Institute of Advanced Research, Gandhinagar, India
 
 ## Contact
 Dr Ahsan Z Rizvi, ahsan.rizvi@iar.ac.in
