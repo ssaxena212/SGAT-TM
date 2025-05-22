@@ -58,8 +58,5 @@ python3 code/main.py --epoch XXXX --lr XXXX
 ## Publication
 Shivani Saxena, Ahsan Z Rizvi, A Novel kernel-based Hilbert space framework for predictive modeling of lncRNA-miRNA-disease interaction networks, Under review
 
-## Copyright
-All rights reserved @ Institute of Advanced Research, Gandhinagar, India
-
 ## Contact
 Dr Ahsan Z Rizvi, ahsan.rizvi@iar.ac.in
