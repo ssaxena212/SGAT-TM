@@ -56,7 +56,7 @@ To train the model, run the main.py script. You can customize training parameter
 python3 code/main.py --epoch XXXX --lr XXXX
 ```
 ## Publication
-Shivani Saxena, Ahsan Z Rizvi, Stacked graph attention network with temporal modeling for lncRNA-miRNA association network, Under review
+Shivani Saxena, Ahsan Z Rizvi, Stacked graph attention network with temporal modeling for lncRNA-miRNA association network, _Under review_
 
 ## Contact
 Dr Ahsan Z Rizvi, ahsan.rizvi@iar.ac.in
